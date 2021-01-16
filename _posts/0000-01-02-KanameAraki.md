@@ -1,5 +1,5 @@
 ---
-layout:slide
-title:"2枚目のスライドにようこそ！"
+layout: slide
+title: "2枚目のスライドにようこそ！"
 ---
-hello new world!!
+わかんないなああああああああああ
